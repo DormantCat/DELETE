@@ -1,5 +1,6 @@
 ---
 description: Редакция от 30 декабря 2024
+noIndex: true
 noRobotsIndex: true
 layout:
   title:
